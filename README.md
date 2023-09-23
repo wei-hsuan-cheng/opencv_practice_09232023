@@ -1,5 +1,5 @@
 # opencv_practice_09232023
-This is a practice of how to use OpenCV ``python`` for basic image processing and face recognition.
+This is a practice of OpenCV ``python`` for basic image processing and face recognition.
 
 For details, go to this tutorial in youtube: 
 
